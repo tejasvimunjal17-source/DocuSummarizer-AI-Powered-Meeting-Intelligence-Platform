@@ -1,0 +1,12 @@
+Weekly Sync Notes
+Project Falcon, engineering team
+
+Gita: Let us start with the status of the mobile release. The build passed all automated checks yesterday.
+
+Hari: I tested it on three devices and found one layout problem on small screens. I will fix it today.
+
+The room booking system was down during this part of the meeting, so the next few remarks were typed by the note taker without speaker names. The group agreed to move the release review to Thursday. Someone suggested adding a short demo for the sales team.
+
+Gita: Thursday works for me. I will send the invitation after the meeting.
+
+Hari: Please also invite the support team so they can ask questions about the new onboarding screens.
